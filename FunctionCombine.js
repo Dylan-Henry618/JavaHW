@@ -4,6 +4,7 @@ function Combine(first, second){
   console.log("If we take " + first);
   console.log("and " + second);
   console.log("We get " + first + " and " + second)
+  console.log("or just: " + (first + second))
 }
 
 Combine(5, 6);
